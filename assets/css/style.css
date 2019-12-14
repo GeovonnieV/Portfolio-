@@ -1,0 +1,92 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 18px;
+    background: #4aaaa5;
+    color: white;
+    width: 186px;
+    text-align: center;
+
+}
+
+h1 {
+    color: #4aaaa5;
+
+}
+
+body {
+   font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.container {
+    width: 960px;
+    background: #ffffff;
+    margin: 0 auto;
+}
+
+#about {
+    float: right;
+    padding: 20px;
+    
+}
+
+#portfolio {
+    float: right;
+    padding: 20px;
+}
+
+#contact {
+float: right;
+padding: 20px;
+
+}
+
+#me {
+    width: 180px;
+    height: 180px;
+    
+}
+
+#img-cont {
+    height: 400px;
+    float: left;
+}
+
+#name {
+    padding: 25px;
+   
+   width: 800px;
+   border-style: solid;
+  
+   border-width: 2px;
+   
+}
+
+#email {
+    padding: 25px;
+   
+   width: 800px;
+   border-style: solid;
+  
+   border-width: 2px;
+}
+
+#message {
+    padding: 85px;
+   
+   width: 800px;
+   border-style: solid;
+  
+   border-width: 2px;
+}
+
+#submit {
+    padding: 25px;
+    width: 80px;
+    background: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 40px;
+    
+}
